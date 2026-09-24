@@ -4,13 +4,13 @@ AutoPPT 是 Windows AI 簡報工作室，協助整理主題、大綱、素材、
 
 ## 下載
 
-前往 [最新版本](https://github.com/SamChengYo/AutoPPT-Releases/releases/latest)，下載 `AutoPPT-Setup-X.Y.Z.exe`。
+前往 [最新版本](https://github.com/SamChengYo/AutoPPT-Releases/releases/latest)，目前版本 **0.4.0**，下載 `AutoPPT-Setup-0.4.0.exe`。
 
 需要 Windows x64 與 Microsoft PowerPoint。原生 SmartArt 功能另需 Microsoft Excel 元件。安裝程式包含執行所需的 .NET 與模型代理服務；AI 功能需填入自己的供應商 API Key。
 
 ## 更新
 
-0.2.1 起預設從本倉庫檢查更新。在「模型與設定」選擇檢查更新、背景下載，再重新啟動安裝。0.1.0 使用者第一次需手動安裝新版。
+0.4.0 起在啟動頁自動檢查、下載更新，完成後靜默安裝並重新啟動。網路失敗可先進入工作室。0.3.0 與更舊版第一次升到本版可能仍使用舊安裝精靈；0.1.0 使用者需手動安裝最新版。
 
 更新保留本機專案及設定。若舊設定無法解密，程式會保留加密備份並提示重新輸入 API Key。解除安裝入口位於應用程式設定，預設保留本機資料。
 
