@@ -133,4 +133,3 @@
 ### 第 5 頁：謝謝｜讓每一次加速，都經得起驗證
 
 [![傳統產業產品創新 第 5 頁](product-innovation/slide-05.png)](product-innovation/slide-05.png)
-
