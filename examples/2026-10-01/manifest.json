@@ -1,0 +1,283 @@
+{
+  "capturedOn": "2026-10-01",
+  "format": "PNG",
+  "source": "AutoPPT 檢視頁保存的 PowerPoint 實際渲染截圖",
+  "projects": [
+    {
+      "slug": "ai-work-automation",
+      "label": "AI 工作自動化",
+      "featured": [
+        1,
+        7,
+        9
+      ],
+      "originalTitle": "告別加班！解析 500 位高產能創作者如何用 AI 節省 70% 雜務時間",
+      "slideCount": 9,
+      "style": "森野編輯室",
+      "slides": [
+        {
+          "page": 1,
+          "title": "AI 不是加班解藥，先找出值得交接的工作",
+          "file": "slide-01.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 37433,
+          "sha256": "5a1e0f898f82a9cd1a03df5877c95fb3ae8a4bdc1f46e47d1147c4e9484b35be"
+        },
+        {
+          "page": 2,
+          "title": "「500 人、省 70%」目前沒有可核實來源",
+          "file": "slide-02.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 37716,
+          "sha256": "607159957c9e136d16189d3f24d7f9d389d6b759a77cc7e45c3e49057c9bd3de"
+        },
+        {
+          "page": 3,
+          "title": "先辨識反覆出現、適合交接的任務",
+          "file": "slide-03.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 36895,
+          "sha256": "287daf097b562c6369a6862df07789eee25420f78c7792eaf8cdd0cec498a2a2"
+        },
+        {
+          "page": 4,
+          "title": "客服研究支持產能提升，但不同經驗者效果不同",
+          "file": "slide-04.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 40491,
+          "sha256": "d79acf76324f3d82f4dd4ee3d04c1f0f5450b10f572de7b5d49a14003543265a"
+        },
+        {
+          "page": 5,
+          "title": "客服產能數據不能直接證明創作者雜務省時 70%",
+          "file": "slide-05.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 38703,
+          "sha256": "4183957e7ec2af8fd6db6fc836d5e454bcc05f2c50cabd5f1ad5e71155929e8e"
+        },
+        {
+          "page": 6,
+          "title": "先從規則清楚、結果可驗收的任務開始",
+          "file": "slide-06.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 37889,
+          "sha256": "61fdc5e2d66c9a101c629d15119f67cc95b0289b62fb652758b1b0b7e5c24644"
+        },
+        {
+          "page": 7,
+          "title": "把 AI 放進有人工驗收的工作流程",
+          "file": "slide-07.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 33380,
+          "sha256": "fccaaf5a1b985f58bebb2a262c1d185b0a47b8e7f5f167933a90205a7ac4199e"
+        },
+        {
+          "page": 8,
+          "title": "用一項小型試驗量出自己的時間與品質",
+          "file": "slide-08.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 29325,
+          "sha256": "bb380181cb129729557c54ee1cead1706f2e56d37e7345c4ccf34a67a2e28b59"
+        },
+        {
+          "page": 9,
+          "title": "別追逐未證實的 70%；先驗證一個可交接的任務",
+          "file": "slide-09.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 35928,
+          "sha256": "3320cf5d57f7c1055baeb12bea54445f2233408346ecab4227782c6a278898e2"
+        }
+      ]
+    },
+    {
+      "slug": "small-team-growth",
+      "label": "小團隊 AI 營收實驗",
+      "featured": [
+        1,
+        7,
+        12
+      ],
+      "originalTitle": "從 1 到 100 萬：AI 如何在 30 天內幫 10 個小團隊實現 5 倍業績暴增？",
+      "slideCount": 12,
+      "style": "森野編輯室",
+      "slides": [
+        {
+          "page": 1,
+          "title": "從 1 到 100 萬：AI 如何在 30 天內幫 10 個小團隊實現 5 倍業績暴增？",
+          "file": "slide-01.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 40016,
+          "sha256": "824613beabd4fcbc317eab4ca0b6fead76499f796e8c31b39f44b46b00a941d3"
+        },
+        {
+          "page": 2,
+          "title": "先把「五倍暴增」當成假設，而不是已證明的結果",
+          "file": "slide-02.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 44993,
+          "sha256": "b45912000c2f7502609e6252e51afa9283b5b471c397a6eff0a39992adcfb949"
+        },
+        {
+          "page": 3,
+          "title": "營收能否被放大，取決於 AI 是否改善瓶頸環節",
+          "file": "slide-03.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 36797,
+          "sha256": "8b679048872e2b969a7977eff90f775d065f0a41f2c788a1183877ddbca16b15"
+        },
+        {
+          "page": 4,
+          "title": "可靠證據支持生產力提升，但效果因人與工作而異",
+          "file": "slide-04.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 40478,
+          "sha256": "d871d67f44af54d3c02a1ac7344d26f2513ca0fe7e86b63fda5ef495a3fdd8bd"
+        },
+        {
+          "page": 5,
+          "title": "小團隊應先把 AI 用在重複、高頻、可檢查的工作",
+          "file": "slide-05.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 35168,
+          "sha256": "070332b96e44873bdd1942ae512c829693165b2d1bc971fa206a0df677bf95b7"
+        },
+        {
+          "page": 6,
+          "title": "先建基線，才能分辨 AI 成效與自然波動",
+          "file": "slide-06.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 38665,
+          "sha256": "bf422dcd89d1d1373682052d548dfeaaad1a55ad592e330a3494552dda4587a8"
+        },
+        {
+          "page": 7,
+          "title": "用 30 天分段測試，而不是一次全面改造",
+          "file": "slide-07.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 34915,
+          "sha256": "0936ab9017fb779e5eafad140f484625ef7d890ba7dea403b6b1549c6b1d0524"
+        },
+        {
+          "page": 8,
+          "title": "AI 輸出必須有人把關，才能兼顧速度與信任",
+          "file": "slide-08.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 36742,
+          "sha256": "a1b2578725c1afd1e2740093cdc805a4596877fbabeb631f50e166c56fabc3d2"
+        },
+        {
+          "page": 9,
+          "title": "小型案例要比較可核對的流程，不把示意包裝成戰績",
+          "file": "slide-09.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 35624,
+          "sha256": "7b7658f92909a73f6162a08a74a2c4e031238281c539101192ece29bf683f41a"
+        },
+        {
+          "page": 10,
+          "title": "擴大投入前，先確認成果可重複且風險可控",
+          "file": "slide-10.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 35894,
+          "sha256": "eb9d7d11056b545ff1a8bab600d8ebefd19ea7fc156f34e6b12d0bd0826b81fd"
+        },
+        {
+          "page": 11,
+          "title": "把 AI 擴充計畫寫成一個團隊能立即執行的實驗",
+          "file": "slide-11.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 42347,
+          "sha256": "1d2b707e23c0673c7eed188b6b94b0c4f0b39d68bd0f4c4547ebdd21a9046acd"
+        },
+        {
+          "page": 12,
+          "title": "謝謝｜先驗證槓桿，再擴大成果",
+          "file": "slide-12.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 31366,
+          "sha256": "4d96feafe7901befb4f11197f741fa29f6f486ef18990e8474f47545d1eea79f"
+        }
+      ]
+    },
+    {
+      "slug": "product-innovation",
+      "label": "傳統產業產品創新",
+      "featured": [
+        1,
+        3,
+        5
+      ],
+      "originalTitle": "縮短 80% 開發週期！傳統產業如何用 AI 實現 10 倍速的產品創新翻轉",
+      "slideCount": 5,
+      "style": "森野編輯室",
+      "slides": [
+        {
+          "page": 1,
+          "title": "縮短 80% 開發週期！傳統產業如何用 AI 實現 10 倍速的產品創新翻轉",
+          "file": "slide-01.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 53180,
+          "sha256": "623468ea4797bbe8bed47e2963057e13ff633166ccd69ed70b929fedbe51e270"
+        },
+        {
+          "page": 2,
+          "title": "真正的問題不是創新太慢，而是開發流程把等待當成常態",
+          "file": "slide-02.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 35874,
+          "sha256": "9b64cc58c445ae4d0f00037830e14945106129d139aaf907c0207fc7ec330f74"
+        },
+        {
+          "page": 3,
+          "title": "AI 的加速潛力在於串接工作，而不是單獨生成一份答案",
+          "file": "slide-03.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 43663,
+          "sha256": "ad31faf88481de167d1465c71fe2ae1730e8a3d8c22665ccacf705e72a9e8990"
+        },
+        {
+          "page": 4,
+          "title": "先用小型試點驗證價值，再談 80% 縮時或 10 倍速",
+          "file": "slide-04.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 44770,
+          "sha256": "25178d24054cc03f6017e0eba622948161f02f7c20aa6d7407f7cf15db7cca3b"
+        },
+        {
+          "page": 5,
+          "title": "謝謝｜讓每一次加速，都經得起驗證",
+          "file": "slide-05.png",
+          "width": 1280,
+          "height": 720,
+          "bytes": 38691,
+          "sha256": "2909918277894cd40ce56bf6e5d1a922680c58f7267674906de0f379060e8fe5"
+        }
+      ]
+    }
+  ]
+}
