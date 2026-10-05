@@ -50,6 +50,7 @@ AutoPPT 是 Windows 桌面 AI 簡報工作室。你提供主題、對象與目�
 - **用對話修改**：檢視投影片後，針對整份簡報或指定頁面提出修改，查看更新後的預覽。
 - **講稿與匯出**：講稿保存在 PowerPoint 備註，可匯出 PPTX、PDF 與採用素材的來源紀錄。
 - **中斷後繼續**：專案、對話與修改草稿自動儲存在本機。
+- **依自己的模板製作**：上傳 `.ppt`／`.pptx`，AI 依大綱複用模板頁，在副本修改內容，沿用原始尺寸、版面、字體與配色。
 
 ## 推薦模型：GPT-6 Luna
 
@@ -63,9 +64,11 @@ AutoPPT 是 Windows 桌面 AI 簡報工作室。你提供主題、對象與目�
 
 ## 下載
 
-前往 [最新版本](https://github.com/SamChengYo/AutoPPT-Releases/releases/latest)，目前版本 **0.8.1**，下載 `AutoPPT-Setup-0.8.1.exe`。本版修正檢視階段對話修改與結果回饋、Enter 送出／Shift + Enter 換行，並強化主題封面與呼應封面的結尾設計；詳見[版本說明](versions/v0.8.1.md)。
+前往 [最新版本](https://github.com/SamChengYo/AutoPPT-Releases/releases/latest)，目前版本 **0.9.0**，下載 `AutoPPT-Setup-0.9.0.exe`。本版新增 PPT 模板上傳與依模板編輯、對話進度跟隨與回到底部、預設收合工具紀錄，以及模型設定成功／失敗提示；詳見[版本說明](versions/v0.9.0.md)。
 
 體驗新版設計流程時，建議建立新專案；既有專案可先在視覺風格按「重新規劃設計」，確認後重新生成。
+
+素材準備保留一般素材上傳，並提供獨立 PPT 模板區（最大 50MB、1–40 頁）；可預覽、更換或移除。模板以可編輯物件為主，圖片內文字不會自動轉為文字框。更換或移除模板後需重新規劃與重建，使用者的來源檔案保持不變。
 
 需要 Windows x64 與 Microsoft PowerPoint。原生 SmartArt 功能另需 Microsoft Excel 元件。安裝程式包含執行所需的 .NET、模型代理服務與 SVG 轉換器，不需另裝 Python；AI 功能需填入自己的供應商 API Key。
 
