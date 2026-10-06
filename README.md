@@ -64,7 +64,7 @@ AutoPPT 是 Windows 桌面 AI 簡報工作室。你提供主題、對象與目�
 
 ## 下載
 
-前往 [最新版本](https://github.com/SamChengYo/AutoPPT-Releases/releases/latest)，目前版本 **0.9.1**，下載 `AutoPPT-Setup-0.9.1.exe`。本版修正大綱輸出超限，會自動縮小批次，保留指定頁數、頁序與完整講稿；既有專案可直接重試大綱。詳見[版本說明](versions/v0.9.1.md)。
+前往 [最新版本](https://github.com/SamChengYo/AutoPPT-Releases/releases/latest)，目前版本 **0.9.2**，下載 `AutoPPT-Setup-0.9.2.exe`。本版將設計規劃改為逐頁設計與審查，輸出超限時精簡重試，保留原規劃；既有專案可直接重試設計。詳見[版本說明](versions/v0.9.2.md)。
 
 體驗新版設計流程時，建議建立新專案；既有專案可先在視覺風格按「重新規劃設計」，確認後重新生成。
 
